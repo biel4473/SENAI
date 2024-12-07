@@ -3,6 +3,5 @@
 <BODY>
    <H1> GIT </H1>
    <H1> VERSIONAMENTO </H1>
->>>>>>> main
 </BODY>
 </HTML>
